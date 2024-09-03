@@ -246,7 +246,7 @@ section .main .main_image img {
 body {
   --sb-track-color: #232E33;
   --sb-thumb-color: #f58ba5;
-  --sb-size: 14px;
+  --sb-size: 10px;
 }
 
 body::-webkit-scrollbar {
